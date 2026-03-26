@@ -1,4 +1,4 @@
-# Guía de Iniciación en Programación
+# FIRSTS STEPS GUIDE
 
 Bienvenido a tu viaje en el desarrollo de software. Este repositorio ha sido cuidadosamente diseñado para guiarte a través de los fundamentos de la programación, desde la configuración de tu entorno de trabajo hasta la creación de proyectos completos, pasando por el control de versiones con Git.
 
@@ -10,7 +10,7 @@ Bienvenido a tu viaje en el desarrollo de software. Este repositorio ha sido cui
 
 ---
 
-## Índice
+## ÍNDICE
 
 1. [Configuración del Entorno de Desarrollo](#configuración-del-entorno-de-desarrollo)
 2. [Control de Versiones con Git](#control-de-versiones-con-git)
@@ -22,7 +22,7 @@ Bienvenido a tu viaje en el desarrollo de software. Este repositorio ha sido cui
 
 ---
 
-## Configuración del Entorno de Desarrollo
+## CONFIGURACIÓN DEL ENTORNO DE DESARROLLO
 
 Un buen entorno de trabajo es la base de un buen programador. Sigue estos pasos para tener todo listo.
 
@@ -51,11 +51,11 @@ Una vez instalado VS Code, accede al panel de extensiones (`Ctrl+Shift+X`) e ins
 | Postman | Permite probar APIs directamente desde VS Code. |
 | vscode-icons | Asigna iconos visuales a los diferentes tipos de archivo. |
 
-> 💡 **Configuración recomendada:** Para que Prettier formatee al guardar, presiona `Ctrl+,`, busca **"format on save"** y actívalo. Luego, establece Prettier como formateador por defecto.
+> **Configuración recomendada:** Para que Prettier formatee al guardar, presiona `Ctrl+,`, busca **"format on save"** y actívalo. Luego, establece Prettier como formateador por defecto.
 
 ---
 
-## Control de Versiones con Git
+## CONTROL DE VERSIONES CON GIT
 
 Git te permite guardar "fotos" de tu proyecto en el tiempo, experimentar sin miedo y colaborar con otros. Este es el flujo de trabajo básico que usarás a diario.
 
@@ -137,7 +137,7 @@ git push origin mi-rama-ejercicios
 
 ---
 
-## Fundamentos de Programación
+## FUNDAMENTOS DE LA PROGRAMACIÓN
 
 Antes de escribir una sola línea de código en Python o Java, estos son los conceptos universales que debes dominar. Piensa en ellos como los ladrillos con los que construirás cualquier programa.
 
@@ -306,11 +306,11 @@ public class Perro {
 
 ---
 
-## Ejercicios por Lenguaje
+## EJERCICIOS POR LENGUAJE
 
 A continuación se detallan los ejercicios que debes realizar para cada tecnología. Se recomienda hacerlos en orden.
 
-### 🐍 Python
+### 🐍 PYTHON
 
 Python es ideal para principiantes por su sintaxis clara y legible. Se ejecuta con:
 
@@ -326,7 +326,7 @@ python nombre_archivo.py
 | 4 | **Validación con Bucle** | Solicita al usuario que introduzca el número 5. Si introduce otro, sigue pidiéndolo. Al final, muestra `"¡Correcto!"`. | Bucle `while`, condicionales. |
 | 5 | **Programación Orientada a Objetos** | Crea una clase `Persona` con atributos `nombre`, `edad`, `peso` y `altura`. Incluye un método `mostrar_informacion()`. Crea dos objetos y muestra su información. | Clases, constructor `__init__`, métodos, `self`. |
 
-### ☕ Java
+### ☕ JAVA
 
 Java es un lenguaje de tipado fuerte y compilado. Necesitarás instalar el **JDK** (Java Development Kit). Para compilar y ejecutar:
 
@@ -352,7 +352,7 @@ Estas tecnologías definen la estructura y el estilo de las páginas web. No req
 | 2 | **Formulario** | Añade un formulario con campos para nombre y edad, y un botón de enviar. | `<form>`, `<input type="text">`, `<input type="number">`, `<button>`. |
 | 3 | **Estilos CSS** | Aplica estilos: primero en línea (`style`), luego con `<style>` en el `<head>`, y finalmente con un archivo `estilos.css` externo. | `color`, `background-color`, `margin`, `padding`, selectores CSS. |
 
-### 🟨 JavaScript
+### 🟨 JAVASCRIPT
 
 JavaScript añade interactividad a las páginas web. Se ejecuta en el navegador.
 
@@ -363,11 +363,11 @@ JavaScript añade interactividad a las páginas web. Se ejecuta en el navegador.
 
 ---
 
-## Proyectos Finales
+## PROYECTOS FINALES
 
 Estos proyectos integran todos los conocimientos adquiridos. Realízalos después de completar los ejercicios individuales.
 
-### 🧮 Calculadora Web
+### Calculadora Web [HTML, CSS, JAVASCRIPT]
 
 Desarrolla una calculadora funcional que pueda realizar las cuatro operaciones básicas: suma, resta, multiplicación y división.
 
@@ -393,7 +393,7 @@ function sumar() {
 }
 ```
 
-### ❌⭕ Tres en Raya (Consola)
+### ❌⭕ TRES EN RAYA POR CONSOLA [PYTHON O JAVA]
 
 Implementa el clásico juego de Tres en Raya en modo texto a través de la consola. Puedes elegir **Python** o **Java**.
 
@@ -425,7 +425,7 @@ Implementa el clásico juego de Tres en Raya en modo texto a través de la conso
 
 ---
 
-## Soluciones a los Primeros Ejercicios
+## SOLUCIONES PRIMEROS EJERCICIOS
 
 > 💡 Intenta resolver los ejercicios por tu cuenta antes de consultar las soluciones.
 
@@ -788,16 +788,16 @@ public class Persona {
 
 ---
 
-## Próximos Pasos
+## PRÓXIMOS PASOS
 
 Una vez que hayas completado todos los ejercicios y los proyectos finales, estarás listo para explorar temas más avanzados:
 
-- 📂 **Manejo de archivos** — leer y escribir en disco.
-- 🗄️ **Conexión a bases de datos.**
-- 🚀 **Frameworks web** — Flask/Django (Python), Spring Boot (Java), React (JavaScript).
-- 🧪 **Pruebas unitarias** (testing).
-- ☁️ **Despliegue de aplicaciones** (deploy).
+-  **Manejo de archivos** — leer y escribir en disco.
+-  **Conexión a bases de datos.**
+-  **Frameworks web** — Flask/Django (Python), Spring Boot (Java), React (JavaScript).
+-  **Pruebas unitarias** (testing).
+-  **Despliegue de aplicaciones** (deploy).
 
 ---
 
-*¡Felicidades por dar el primer paso en tu carrera como desarrollador!* 🎉
+*¡Felicidades por dar el primer paso en tu carrera como desarrollador!* 
