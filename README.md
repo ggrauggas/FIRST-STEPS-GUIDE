@@ -1,4 +1,4 @@
-# FIRSTS STEPS GUIDE
+# FIRST STEPS GUIDE
 
 Bienvenido a tu viaje en el desarrollo de software. Este repositorio ha sido cuidadosamente diseñado para guiarte a través de los fundamentos de la programación, desde la configuración de tu entorno de trabajo hasta la creación de proyectos completos, pasando por el control de versiones con Git.
 
@@ -74,7 +74,7 @@ Si ves un número de versión, estás listo. Si no, revisa la instalación.
 Para obtener una copia local de este proyecto en tu ordenador:
 
 ```bash
-git clone https://github.com/ggrauggas/FIRSTS-STEPS-GUIDE
+git clone https://github.com/ggrauggas/FIRST-STEPS-GUIDE
 ```
 
 Si quieres acceder a cada `[URL-DEL-REPOSITORIO]` la dirección se encuentra en el botón **"Code"** de la página del repositorio en GitHub.
