@@ -621,6 +621,14 @@ Implementa el clásico juego de Tres en Raya en modo texto a través de la conso
 2. **Mostrar el tablero** de forma legible:
 
     ```
+       |   | 
+    ---+---+---
+       |   |  
+    ---+---+---
+       |   | 
+    ```
+    
+    ```
      X | O | X
     ---+---+---
        | O |  
