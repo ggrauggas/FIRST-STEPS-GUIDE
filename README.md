@@ -264,11 +264,11 @@ class Perro:
         return f"{self.nombre} dice: ¡Guau!"
 
 # Crear objetos (instancias)
-mi_perro = Perro("Rex", "Labrador")
-otro_perro = Perro("Luna", "Beagle")
+perro_1 = Perro("Inka", "Border Collie")
+perro_2 = Perro("Fosca", "Beagle")
 
-print(mi_perro.ladrar())   # Salida: Rex dice: ¡Guau!
-print(otro_perro.nombre)   # Salida: Luna
+print(perro_1.ladrar())   # Salida: Inka dice: ¡Guau!
+print(perro_2.nombre)     # Salida: Fosca
 ```
 
 ```java
@@ -295,8 +295,8 @@ public class Perro {
     }
     
     public static void main(String[] args) {
-        Perro miPerro = new Perro("Rex", "Labrador");
-        Perro otroPerro = new Perro("Luna", "Beagle");
+        Perro miPerro = new Perro("Inka", "Border Collie");
+        Perro otroPerro = new Perro("Fosca", "Beagle");
         
         System.out.println(miPerro.ladrar());
         System.out.println(otroPerro.getNombre());
